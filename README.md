@@ -26,7 +26,7 @@ The College Football Modding Community DOES NOT allow the use of any mods during
 
 ### 1.1 Extract the Rar File
 
-Extract the contents of the `MMC_Modding_Tools_v1.1.0.0` file using WinRar, WinZip, or any decompression tool, and place them in a dedicated folder on the same drive as your College Football 27 installation.
+Extract the contents of the `MMC_Modding_Tools_v1.1.0.1` file using WinRar, WinZip, or any decompression tool, and place them in a dedicated folder on the same drive as your College Football 27 installation.
 
 ### 1.2 Disable Original Anti-Cheat
 
