@@ -15,6 +15,7 @@ Grab the latest packaged build from the [Releases](https://github.com/bphit4/MMC
 3. Run the included tools.
 
 **Troubleshooting help and support go to the Discord server.**
+
 For Madden
 https://discord.gg/maddenmoddingcommunity
 
