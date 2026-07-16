@@ -6,7 +6,7 @@ Modding tools for Madden Mod Community (MMC) built on the Frosty toolset.
 
 Grab the latest packaged build from the [Releases](https://github.com/bphit4/MMC-Frosty-Modding-Tools/releases) page.
 
-- **v1.1.0.0** — `MMC_Modding_Tools_v1.1.0.0.rar`
+- **v1.1.0.1** — `MMC_Modding_Tools_v1.1.0.1.rar`
 
 ## Installation
 
