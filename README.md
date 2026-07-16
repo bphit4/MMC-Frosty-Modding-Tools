@@ -13,3 +13,6 @@ Grab the latest packaged build from the [Releases](https://github.com/bphit4/MMC
 1. Download the release archive.
 2. Extract it with a tool that supports RAR archives (e.g. WinRAR or 7-Zip).
 3. Run the included tools.
+
+**Troubleshooting help and support go to the Discord server.**
+https://discord.gg/maddenmoddingcommunity
